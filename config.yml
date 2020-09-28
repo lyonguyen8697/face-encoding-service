@@ -1,0 +1,8 @@
+host: 0.0.0.0
+port: 3005
+desired_left_eye:
+  - 0.35
+  - 0.5
+desired_face_width: 112
+desired_face_height: 112
+model_path: face_model
